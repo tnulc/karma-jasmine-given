@@ -13,10 +13,11 @@
     "jasmine-given"
   ],
   "author": "Christopher Lunt <chris@wearegrove.co.uk>",
-  "dependencies": {},
-  "peerDependencies": {
-    "karma": ">=0.9",
+  "dependencies": {
     "jasmine-given": "^2.6.0"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
   },
   "license": "MIT",
   "bugs": {
