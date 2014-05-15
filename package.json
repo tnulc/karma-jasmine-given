@@ -1,0 +1,26 @@
+{
+  "name": "karma-jasmine-given",
+  "version": "0.1.0",
+  "description": "Use Justin Searls' jasmine-given in Karma",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wearegrove/karma-jasmine-given.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "jasmine",
+    "jasmine-given"
+  ],
+  "author": "Christopher Lunt <chris@wearegrove.co.uk>",
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9",
+    "jasmine-given": "^2.6.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wearegrove/karma-jasmine-given/issues"
+  },
+  "homepage": "https://github.com/wearegrove/karma-jasmine-given"
+}
