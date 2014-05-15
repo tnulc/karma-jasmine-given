@@ -1,6 +1,6 @@
 {
   "name": "karma-jasmine-given",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use Justin Searls' jasmine-given with Karma",
   "main": "lib/index.js",
   "repository": {
