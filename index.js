@@ -7,7 +7,7 @@ var pattern = function(file) {
 };
 
 var framework = function(files) {
-  files.unshift(pattern(path.dirname(require.resolve('jasmine-given')  + '/dist/jasmine-given.js')));
+  files.unshift(pattern(path.dirname(require.resolve('jasmine-given'))  + '/dist/jasmine-given.js'));
 };
 
 framework.$inject = ['config.files'];
